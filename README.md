@@ -1,3 +1,3 @@
-# My Awesome Book
+# TM3 Default Mapping Instructions
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Default mapping instructions for the Tasking Manager 3 divided up by type of mapping.
